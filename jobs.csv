@@ -1,0 +1,60 @@
+jobId,jobTitle,employerName,locationName,minimumSalary,maximumSalary,avgSalary,jobUrl,search_keyword
+56118272,Data Engineer,AJ Bell,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/data-engineer/56118272,data engineer
+56888896,Senior Data Scientist,United Utilities,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/senior-data-scientist/56888896,data engineer
+56835761,Microsoft AI CoPilot Developer,FDM Group,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/microsoft-ai-copilot-developer/56835761,data engineer
+56931697,Automation Engineer,Muller UK & Ireland,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/automation-engineer/56931697,data engineer
+56921637,Senior Data Architect,DVSA,Oldham,57515.0,82430.0,69972.5,https://www.reed.co.uk/jobs/senior-data-architect/56921637,data engineer
+56953675,AI Engineer,Understanding Recruitment,Manchester,60000.0,70000.0,65000.0,https://www.reed.co.uk/jobs/ai-engineer/56953675,data engineer
+56909260,AI Engineer,OpenSourced Ltd,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/ai-engineer/56909260,data engineer
+56843200,AI Engineer,Robert Walters,Bolton,50000.0,55000.0,52500.0,https://www.reed.co.uk/jobs/ai-engineer/56843200,data engineer
+56943543,Senior Platform Engineer,AJ Bell,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/senior-platform-engineer/56943543,data engineer
+56899046,Data Engineer,Tenth Revolution Group,Manchester,35000.0,50000.0,42500.0,https://www.reed.co.uk/jobs/data-engineer/56899046,data engineer
+56922144,Data Engineer,Nigel Wright Group,Manchester,40000.0,40000.0,40000.0,https://www.reed.co.uk/jobs/data-engineer/56922144,data engineer
+56396200,Trainee Ai Engineer,IT Career Switch,Manchester,25000.0,45000.0,35000.0,https://www.reed.co.uk/jobs/trainee-ai-engineer/56396200,data engineer
+56858412,Trainee AI Engineer,ITOL Recruit,Manchester,30000.0,45000.0,37500.0,https://www.reed.co.uk/jobs/trainee-ai-engineer/56858412,data engineer
+56898981,Senior Machine Learning Engineer,Vermelo RPO,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/senior-machine-learning-engineer/56898981,data engineer
+56874614,AI Security Engineer,Tenth Revolution Group,Manchester,60000.0,110000.0,85000.0,https://www.reed.co.uk/jobs/ai-security-engineer/56874614,data engineer
+56890362,Data and AI Engineer,Tenth Revolution Group,Manchester,45000.0,51000.0,48000.0,https://www.reed.co.uk/jobs/data-and-ai-engineer/56890362,data engineer
+56944328,Data Engineer,Tenth Revolution Group,Manchester,40000.0,55000.0,47500.0,https://www.reed.co.uk/jobs/data-engineer/56944328,data engineer
+56859001,Trainee AI Engineer,ITOL Recruit,United Kingdom,30000.0,45000.0,37500.0,https://www.reed.co.uk/jobs/trainee-ai-engineer/56859001,data engineer
+56910790,Data Engineer,Robert Walters,Manchester,60000.0,65000.0,62500.0,https://www.reed.co.uk/jobs/data-engineer/56910790,data engineer
+56955654,AI Innovation Engineer / AI Solutions Engineer,Standard 8 ,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/ai-innovation-engineer-ai-solutions-engineer/56955654,data engineer
+56812380,Senior Fullstack Developer (Python),Robert Half,Manchester,70000.0,90000.0,80000.0,https://www.reed.co.uk/jobs/senior-fullstack-developer-python/56812380,python developer
+56971853,Software Engineer - Python/Golang,Harvey Nash,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/software-engineer-python-golang/56971853,python developer
+56966716,Software Engineer,Harvey Nash,Manchester,50000.0,95000.0,72500.0,https://www.reed.co.uk/jobs/software-engineer/56966716,python developer
+56979362,Senior Developer,The National Institute for Health and Care Excellence (NICE),Manchester,49387.0,56515.0,52951.0,https://www.reed.co.uk/jobs/senior-developer/56979362,python developer
+56923159,Principal Software Engineer,Adria Solutions,Manchester,70000.0,70000.0,70000.0,https://www.reed.co.uk/jobs/principal-software-engineer/56923159,python developer
+56451012,Trainee Web Developer,IT Career Switch,Manchester,25000.0,45000.0,35000.0,https://www.reed.co.uk/jobs/trainee-web-developer/56451012,python developer
+56858820,Trainee Software Developer,ITOL Recruit,Manchester,30000.0,45000.0,37500.0,https://www.reed.co.uk/jobs/trainee-software-developer/56858820,python developer
+56966081,Trainee Software Developer,ITOL Recruit,United Kingdom,30000.0,45000.0,37500.0,https://www.reed.co.uk/jobs/trainee-software-developer/56966081,python developer
+56827575,Cyber Software Engineer,Sanderson ,Manchester,40000.0,80000.0,60000.0,https://www.reed.co.uk/jobs/cyber-software-engineer/56827575,python developer
+56890033,Trainee Software Developer,ITOL Recruit,Manchester,29000.0,35000.0,32000.0,https://www.reed.co.uk/jobs/trainee-software-developer/56890033,python developer
+56859045,Trainee Software Developer,ITOL Recruit,United Kingdom,26000.0,35000.0,30500.0,https://www.reed.co.uk/jobs/trainee-software-developer/56859045,python developer
+56451117,Trainee Web Developer,IT Career Switch,Manchester,25000.0,45000.0,35000.0,https://www.reed.co.uk/jobs/trainee-web-developer/56451117,python developer
+56451061,Trainee Web Developer,IT Career Switch,Manchester,25000.0,45000.0,35000.0,https://www.reed.co.uk/jobs/trainee-web-developer/56451061,python developer
+56450832,Trainee Web Developer,IT Career Switch,Manchester,25000.0,45000.0,35000.0,https://www.reed.co.uk/jobs/trainee-web-developer/56450832,python developer
+56451143,Trainee Web Developer,IT Career Switch,Manchester,25000.0,45000.0,35000.0,https://www.reed.co.uk/jobs/trainee-web-developer/56451143,python developer
+56451030,Trainee Web Developer,IT Career Switch,Manchester,25000.0,45000.0,35000.0,https://www.reed.co.uk/jobs/trainee-web-developer/56451030,python developer
+56967124,Junior AI Developer,Newto Training,United Kingdom,20000.0,50000.0,35000.0,https://www.reed.co.uk/jobs/junior-ai-developer/56967124,python developer
+56451139,Trainee Web Developer,IT Career Switch,Manchester,25000.0,45000.0,35000.0,https://www.reed.co.uk/jobs/trainee-web-developer/56451139,python developer
+56451064,Trainee Web Developer,IT Career Switch,Manchester,25000.0,45000.0,35000.0,https://www.reed.co.uk/jobs/trainee-web-developer/56451064,python developer
+56451060,Trainee Web Developer,IT Career Switch,Manchester,25000.0,45000.0,35000.0,https://www.reed.co.uk/jobs/trainee-web-developer/56451060,python developer
+56966139,Research Analyst,K3 Advisory Group,Manchester,27000.0,27000.0,27000.0,https://www.reed.co.uk/jobs/research-analyst/56966139,data analyst
+56956039,Intelligence Analyst,Keoghs LLP,Lostock,0.0,0.0,0.0,https://www.reed.co.uk/jobs/intelligence-analyst/56956039,data analyst
+55968479,Business Analyst,FDM Group,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/business-analyst/55968479,data analyst
+56718443,Service Desk Analyst,EXL Service (UK) Ltd,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/service-desk-analyst/56718443,data analyst
+56788202,Senior Information Security Analyst,AJ Bell,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/senior-information-security-analyst/56788202,data analyst
+56951518,Junior Service Delivery Analyst,Vermelo RPO,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/junior-service-delivery-analyst/56951518,data analyst
+56930558,Lead Development Finance Analyst,Clarion,Manchester,70221.0,82613.0,76417.0,https://www.reed.co.uk/jobs/lead-development-finance-analyst/56930558,data analyst
+56833709,Senior Pensions Project Analyst, Isio,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/senior-pensions-project-analyst/56833709,data analyst
+56947745,Data Analyst,Tenth Revolution Group,Manchester,45000.0,60000.0,52500.0,https://www.reed.co.uk/jobs/data-analyst/56947745,data analyst
+56913079,Data Analyst,Robert Walters,Manchester,45000.0,50000.0,47500.0,https://www.reed.co.uk/jobs/data-analyst/56913079,data analyst
+56815614,Data Analyst,Harnham - Data & Analytics Recruitment,Manchester,450.0,500.0,475.0,https://www.reed.co.uk/jobs/data-analyst/56815614,data analyst
+56893831,Data analyst,Lorien,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/data-analyst/56893831,data analyst
+56861106,Transfers Out Senior Analyst,AJ Bell,Manchester,0.0,0.0,0.0,https://www.reed.co.uk/jobs/transfers-out-senior-analyst/56861106,data analyst
+56963406,Data Analyst Trainee,ITOL Recruit,Manchester,30000.0,50000.0,40000.0,https://www.reed.co.uk/jobs/data-analyst-trainee/56963406,data analyst
+56859059,Data Analyst Trainee,ITOL Recruit,United Kingdom,30000.0,50000.0,40000.0,https://www.reed.co.uk/jobs/data-analyst-trainee/56859059,data analyst
+56968729,Senior Data Analyst,Harnham - Data & Analytics Recruitment,Manchester,80000.0,90000.0,85000.0,https://www.reed.co.uk/jobs/senior-data-analyst/56968729,data analyst
+56967258,Trainee Data Analyst,Newto Training,United Kingdom,25000.0,78000.0,51500.0,https://www.reed.co.uk/jobs/trainee-data-analyst/56967258,data analyst
+56967253,Data Analyst Trainee,Newto Training,United Kingdom,25000.0,78000.0,51500.0,https://www.reed.co.uk/jobs/data-analyst-trainee/56967253,data analyst
+56923870,Data Analyst Trainee,ITOL Recruit,Manchester,30000.0,50000.0,40000.0,https://www.reed.co.uk/jobs/data-analyst-trainee/56923870,data analyst
